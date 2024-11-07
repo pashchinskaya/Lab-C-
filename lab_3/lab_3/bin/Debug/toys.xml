@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<ArrayOfToy xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Toy>
+    <Name>Мягкая игрушка</Name>
+    <Price>500</Price>
+    <AgeFrom>2</AgeFrom>
+    <AgeTo>5</AgeTo>
+  </Toy>
+  <Toy>
+    <Name>Конструктор</Name>
+    <Price>1200</Price>
+    <AgeFrom>4</AgeFrom>
+    <AgeTo>8</AgeTo>
+  </Toy>
+  <Toy>
+    <Name>Кубики</Name>
+    <Price>300</Price>
+    <AgeFrom>1</AgeFrom>
+    <AgeTo>3</AgeTo>
+  </Toy>
+  <Toy>
+    <Name>Настольная игра</Name>
+    <Price>800</Price>
+    <AgeFrom>6</AgeFrom>
+    <AgeTo>12</AgeTo>
+  </Toy>
+  <Toy>
+    <Name>Пазл</Name>
+    <Price>400</Price>
+    <AgeFrom>4</AgeFrom>
+    <AgeTo>5</AgeTo>
+  </Toy>
+</ArrayOfToy>
