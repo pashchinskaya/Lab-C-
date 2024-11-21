@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ArrayOfPassenger xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Passenger>
+    <LastName>Иванов</LastName>
+    <ReleaseTime>2024-11-21T12:00:00+05:00</ReleaseTime>
+  </Passenger>
+  <Passenger>
+    <LastName>Петров</LastName>
+    <ReleaseTime>2024-11-21T10:12:00+05:00</ReleaseTime>
+  </Passenger>
+  <Passenger>
+    <LastName>Сидоров</LastName>
+    <ReleaseTime>2024-11-21T12:12:00+05:00</ReleaseTime>
+  </Passenger>
+</ArrayOfPassenger>

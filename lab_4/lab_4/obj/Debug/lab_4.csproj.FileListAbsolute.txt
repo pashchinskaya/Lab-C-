@@ -1,0 +1,7 @@
+C:\Users\lerap\source\repos\lab_4\lab_4\bin\Debug\lab_4.exe.config
+C:\Users\lerap\source\repos\lab_4\lab_4\bin\Debug\lab_4.exe
+C:\Users\lerap\source\repos\lab_4\lab_4\bin\Debug\lab_4.pdb
+C:\Users\lerap\source\repos\lab_4\lab_4\obj\Debug\lab_4.csproj.AssemblyReference.cache
+C:\Users\lerap\source\repos\lab_4\lab_4\obj\Debug\lab_4.csproj.CoreCompileInputs.cache
+C:\Users\lerap\source\repos\lab_4\lab_4\obj\Debug\lab_4.exe
+C:\Users\lerap\source\repos\lab_4\lab_4\obj\Debug\lab_4.pdb
